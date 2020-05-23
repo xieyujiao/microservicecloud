@@ -2,7 +2,6 @@ package com.atxyj.springcloud.controller;
 
 import com.atxyj.springcloud.entities.Dept;
 import com.atxyj.springcloud.service.DeptService;
-import com.atxyj.springcloud.service.impl.DeptServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;

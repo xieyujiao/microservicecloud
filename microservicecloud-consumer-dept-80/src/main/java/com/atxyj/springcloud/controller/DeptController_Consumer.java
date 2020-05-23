@@ -1,7 +1,6 @@
 package com.atxyj.springcloud.controller;
 
 import com.atxyj.springcloud.entities.Dept;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
